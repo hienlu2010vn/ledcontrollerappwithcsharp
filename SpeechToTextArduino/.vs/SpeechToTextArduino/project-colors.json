@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86d88402-b75b-404e-a5a9-a863c54ee7c6": {
+      "ProjectGuid": "86d88402-b75b-404e-a5a9-a863c54ee7c6",
+      "DisplayName": "SpeechToTextArduino",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\bin\Debug\SpeechToTextArduino.exe.config
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\bin\Debug\SpeechToTextArduino.exe
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\bin\Debug\SpeechToTextArduino.pdb
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.csproj.AssemblyReference.cache
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.csproj.SuggestedBindingRedirects.cache
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.Form1.resources
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.Properties.Resources.resources
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.csproj.GenerateResource.cache
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.csproj.CoreCompileInputs.cache
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.exe
+D:\Source\SpeechToTextArduino\SpeechToTextArduino\obj\Debug\SpeechToTextArduino.pdb
